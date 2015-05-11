@@ -1,0 +1,2 @@
+# Superscalar-Processor-Simulator
+- Developed a simulator for a single-core Out-of-order Superscalar Multiprocessor using the hardware paradigm followed by Tomasulo's Algorithm (IBM 360/91), to assess cycle times for different instruction sets on various SPEC benchmark traces.  - Presented an optimum processor configuration (Fetch Rate, Number of Functional Units for each Op and number of Result Buses) for each benchmark.
